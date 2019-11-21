@@ -5,7 +5,7 @@
   "main": "./pepita.js",
   "scripts": {
     "test": "jest",
-    "start": "node-repl ./pepita.js"
+    "start": "node-repl ./flota.js"
   },
   "author": "Federico Aloi",
   "license": "MIT",
